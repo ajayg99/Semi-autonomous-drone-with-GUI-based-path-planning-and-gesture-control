@@ -2,7 +2,8 @@
 This project provides a solution for the first responders to gather insights of the current condition and devise strategic plan for search and rescue without risking their lives.
 
 ## Autonomous Indoor Navigation
-Used PEDRA to train the drone on Indoor environment(unreal engine) and applied transfer learning -<a href="https://github.com/aqeelanwar/PEDRA" target="_blank">PEDRA</a>
+Used PEDRA to train the drone on Indoor environment(unreal engine) and applied transfer learning -<a href="https://github.com/aqeelanwar/PEDRA" target="_blank">PEDRA</a><br />
+Indoor navigation Model - <a href="https://drive.google.com/drive/folders/1QFDFtnpl3PFECgX6Z_uvRoaxcXmPd-5P?usp=sharing" target="_blank">Model</a>
 
 ##### Output
 ![image](https://user-images.githubusercontent.com/45633028/136217727-3203775f-bab3-4f2b-af24-ed4ef248edd7.png)<br />
